@@ -10,3 +10,4 @@
 <a href="https://discordbots.org/bot/365949788807757834">
   <img src="https://discordbots.org/api/widget/365949788807757834.svg" alt="Discord Bots" />
 </a>
+[![Bot](https://botsfordiscord.com/api/v1/bots/366031494185222145/embed?theme=dark )]
