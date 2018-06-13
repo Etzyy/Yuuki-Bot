@@ -11,5 +11,5 @@
   <img src="https://discordbots.org/api/widget/365949788807757834.svg" alt="Discord Bots" />
 </a>
 <a href="hi">
-  <img src"https://botsfordiscord.com/api/v1/bots/366031494185222145/embed?theme=dark" alt="lisBot" />
+  <img src"https://botsfordiscord.com/api/v1/bots/366031494185222145/embed?theme=dark.svg" alt="lisBot" />
 </a>
