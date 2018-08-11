@@ -11,6 +11,3 @@
 <a href="https://discordbots.org/bot/365949788807757834">
   <img src="https://discordbots.org/api/widget/365949788807757834.svg" alt="Discord Bots" />
 </a>
-<a href="hi">
-  <img src"http://18.184.116.22/dblWidget?botID=365949788807757834" alt="lisBot" />
-</a>
