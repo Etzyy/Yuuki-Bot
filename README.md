@@ -2,6 +2,7 @@
 # Yuuki Bot
 
 > Note: Bot source code is not available to the general public
+
 > Nota: El código fuente del bot no está disponible para el público en general
 
 <a href="https://discordbots.org/bot/365949788807757834">
