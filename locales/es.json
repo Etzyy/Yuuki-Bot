@@ -92,8 +92,8 @@
      "firtsField": "He calculado con éxito:",
      "secondField": "La respuesta es:"    
    },
-   "dogandcat" {
-     "CatMessage": "Aqui esta tu gato aleatorio <:Cat:429724283003207681>"
+   "dogandcat": {
+     "CatMessage": "Aqui esta tu gato aleatorio <:Cat:429724283003207681>",
      "DogMessage": "Tu perro random esta aqui"
    },
    "clean": {
