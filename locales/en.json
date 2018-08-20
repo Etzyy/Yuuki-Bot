@@ -1,0 +1,87 @@
+{
+   
+   "title": "Command Usage",
+   "Error": ["❎ | Oh no, there's been a mistake: ", ". Please try again later."],
+   "titleComp": "Complete :white_check_mark:",
+   "info": "Information from ",
+   "click": "Click Here",
+   "noA": ["The User ", " has no avatar."],
+   "Dow": "Download",
+  "noP": {
+      "ban": "<:Not:463200957396680714> **| You do not have permission to use this command.**",
+      "kick": "<:Not:463200957396680714> **| You do not have permission to use this command.**"
+    },
+    "lang": {
+        "langUpdate": "Language updated.",
+        "translate": "If you want Yuuki in a language that isn't on the list above, you can help translate Yuuki on [Github](https://yuuki.github.io)"
+    },
+    "prefix": {
+        "prefixUpdate": "Updated prefix.",
+        "translate": "The prefix on the server **${guild.name}** has been updated to **${prefix}** if you want to change the prefix use again **${prefix}sprefix <Prefix>**",
+        "title": "Current Prefix"
+    },
+    "langR": {
+      "langR1": "What is the language to set up Yuuki",
+      "langR2": "Please enter a valid language type!"
+    },
+    "func": {
+      "actual": ["The current language on the server", "is"],
+      "prefix": "The current prefix on the server **${guild.name}** is **${prefix}**"
+      },
+    "langu": {
+      "name": "English",
+      "title": "Language"
+    },
+  "BALL": {
+    "usage": ["<:Not:463805182648778783> | " , ", the correct usage is: `Yu!8ball <question>`\n◈ | e.g. `Yu!8ball Is potato soup yummy?`\n◈ | Get more help using `Yu!help 8ball`"],
+    "preg": "Question",
+    "res": "Answer",
+    "ress": ["Yes", "Not", "Why?", "Please", "Perhaps", "I don't know", "Definitely.", "¡of course!", "Of course you don't"]
+  },
+  "about": {
+    "owner": "Owner",
+    "L": "Library",
+    "CPU": "CPU Usage",
+    "C": "Commands",
+    "guilds": "Servers",
+    "Ca": "Channels",
+    "Prefix": "Prefix",
+    "v": "Version",
+    "M": "Memory",
+    "uptime": "Activity time",
+    "E": "Events",
+    "Mem": "Members",
+    "WebSite": "WebSite",
+    "Vote": "Vote for the bot" ,
+    "use": "Use Yu!vote"
+  },
+  "dbl": {
+    "men": "**<:Not:463200957396680714> Mention a bot.**",
+    "uB": "**<:Not:463200957396680714> You're not a bot.**"
+  },
+  "dbli": {
+    "title": "Discord Bots List Information",
+    "ID": "ID",
+    "name": "Bot Name",
+    "tag": "Discriminator",
+    "L": "Library",
+    "prefix": "Prefix",
+    "upvotes": "Upvotes",
+    "guilds": "Server Count",
+    "CB": "Certified Bot",
+    "Tags": "Tags",
+    "owner": "Owner(s)",
+    "SD": "Short description",
+    "Links": "Links"
+  }, 
+  "ASCII": {
+    "args": "Write something to transform it into ascii text.",
+    "c14": "you passed the 14 characters allowed...."
+  },
+  "ban": {
+    "men": "<:Not:463805182648778783> | You must mention someone <:bEmoji:440388028939239434>",
+    "reazon": "<:Not:463805182648778783> | Write down a reason `Yu!ban @username [reason]`",
+    "noBP": "<:Not:463805182648778783> | I cannot ban the mentioned user.",
+    "noC": "**<:Not:463805182648778783> | Please create a channel with the name `mod-logs`.**"
+  }
+}
