@@ -1,0 +1,86 @@
+{    
+    "title": "Uso del comando",
+    "Error": ["❎ | Oh no, ha ocurrido un error: ", ". Inténtalo de nuevo más tarde."],
+    "titleComp": "Completado :white_check_mark:",
+    "info": "Información de ",
+    "click": "Click Aqui",
+    "noA": ["El Usuario ", " no tiene avatar."],
+    "Dow": "Descargar",
+    "noP": {
+      "ban": "<:Not:463200957396680714> **| No tienes Permisos para usar este comando.**",
+      "kick": "<:Not:463200957396680714> **| No tienes Permisos para usar este comando.**"
+    },
+    "func": {
+      "actual": ["El lenguaje actual en el servidor", "es"],
+      "prefix": "El prefix actual en el servidor **${guild.name}** es **${prefix}**"
+      },
+    "langu": {
+      "name": "Español",
+      "title": "Lenguaje"
+    },
+    "lang": {
+        "langUpdate": "Idioma actualizado.",
+        "translate": "Si quieres Yuuki en un idioma que todavía no está en la lista de arriba, puedes ayudar a traducir Yuuki en [Github](https://yuuki.github.io)"
+    },
+    "prefix": {
+        "prefixUpdate": "Prefijo actualizado.",
+        "translate": "El prefijo en el servidor **${guild.name}** a sido actualizado a **${prefix}** si deseas cambiar el prefix usa de nuevo **${prefix}sprefix <Prefijo>**",
+        "title": "prefijo Actual"
+    },
+    "langR": {
+      "langR1": "Cual es el idioma a establecer a Yuuki",
+      "langR2": "Por favor, introduzca un tipo de idioma válido!"
+    },
+  "BALL": {
+    "usage": ["<:Not:463805182648778783> | " , ", el uso correcto es:  `Yu!8ball <pregunta>`\n◈ | e.g. `Yu!8ball ¿Es deliciosa la sopa de papa?`\n◈ | Obtén más ayuda utilizando `Yu!help 8ball`"],
+    "preg": "Pregunta",
+    "res": "Respuesta",
+    "ress": ["Sí", "No", "¿Por qué?", "Por favor", "Tal vez", "No sé", "Definitivamente?", " ¡Claro! " ," Por supuesto que no "]
+  },
+  "about": {
+    "owner": "Dueño",
+    "L": "Libreria",
+    "CPU": "Uso del CPU",
+    "C": "Comandos",
+    "guilds": "Servidores",
+    "Ca": "Canales",
+    "Prefix": "Prefijo",
+    "v": "Version",
+    "M": "Memoria",
+    "uptime": "Tiempo de actividad",
+    "E": "Eventos",
+    "Mem": "Miembros",
+    "WebSite": "WebSite",
+    "Vote": "Vota por el bot",
+    "use": "Usa Yu!vote"
+  },
+  "dbl": {
+    "men": "**<:Not:463200957396680714> Menciona a un bot**",
+    "uB": "**<:Not:463200957396680714> Tu no eres un bot**"
+  },
+  "dbli": {
+    "title": "Información de Discord Bots List",
+    "ID": "ID",
+    "name": "Nombre del Bot",
+    "tag": "Discriminador",
+    "L": "Liberia",
+    "prefix": "Prefijo",
+    "upvotes": "Votos",
+    "guilds": "Número de Servidores",
+    "CB": "Bot certificado",
+    "Tags": "Tags",
+    "owner": "Dueño(s)",
+    "SD": "Descripción breve",
+    "Links": "Links"
+  }, 
+  "ASCII": {
+    "args": "Escribe algo para transformarlo en texto ascii",
+    "c14": "pasaste los 14 caracteres permitidos..."
+  },
+  "ban": {
+    "men": "**<:Not:463805182648778783> | Debe mencionar a alguien <:bEmoji:440388028939239434>**",
+    "reazon": "**<:Not:463805182648778783> | Escriba un razón, `Yu!ban @username [razón]`**",
+    "noBP": "**<:Not:463805182648778783> | No puedo banear al usuario mencionado.**",
+    "noC": "**<:Not:463805182648778783> | Por favor, cree un canal con el nombre `mod-logs`.**"
+  }
+}
