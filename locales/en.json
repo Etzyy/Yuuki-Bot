@@ -115,32 +115,32 @@
     },
      "Github": {
         "nF": "Not Found",
-        "nE": "The user do not exits",
-        "args": "Por favor provea un nombre de usuario/org",
+        "nE": "The user does not exist",
+        "args": "Please provide a username/org",
          "infoEmbed": {
-             "f": "Seguidores",
-             "F": "Siguiendo",
-             "C": "Creado el",
-             "L": "Localización"
-             "Com": "Empresa",
-             "rP": "repos públicos",
-              "WebN": "Web No establecido" 
+             "f": "Followers",
+             "F": "Following",
+             "C": "Created on",
+             "L": "Localization",
+             "Com": "Company",
+             "rP": "Public Repos",
+              "WebN": "Web Not set up" 
            }
        },  
       "hackban": {
-          "user": "¿Qué usuario quieres hackbanear ingresa su id?"
-          "uB": "¡Por favor, no me bannes...!",
-          "uA": "No me atrevería a hackearte...!",
-          "days": "¿Cuántos días hay que esperar para borrar el historial de mensajes?(max: 7)",
-          "reason": "¿Cuál es el motivo?",
-          "cancel": "¡Comando Cancelado!",
-          "succ": "Banneado con éxito a **{{user}}**! 👋"
+          "user": "Which user do you want to hackbanear enter their id?",
+          "uB": "Please don't ban me....!",
+          "uA": "I wouldn't dare hack you....!",
+          "days": "How many days do I have to wait to delete the message history (max: 7)?",
+          "reason": "What's the motive?",
+          "cancel": "Command Cancelled!",
+          "succ": "Banned successfully at **{{user}}**! 👋"
      },
     "hook": {
         "messageD": "{{prefix}}hook <title>, <message>, [HEXcolor], [avatarURL]\n\n**<> is required\n[] is optional**" 
     },
     "jumbo": {
-        "Nemoji": "Please provide an emoji to expand it".
+        "Nemoji": "Please provide an emoji to expand it",
         "Demoji": "I can't expand built-in discord emojis.",
         "Iemoji": "Please provide a valid emoji."
         "Ni": "I can't identify the emoji!"
