@@ -112,5 +112,43 @@
         "noTerms": "I couldn't find any results!",
         "Title": "Search result of gifs for: ",
         "page": "Page {{page}} of {{pagesL}}"
-    }
+    },
+     "Github": {
+        "nF": "Not Found",
+        "nE": "The user do not exits",
+        "args": "Por favor provea un nombre de usuario/org",
+         "infoEmbed": {
+             "f": "Seguidores",
+             "F": "Siguiendo",
+             "C": "Creado el",
+             "L": "Localización"
+             "Com": "Empresa",
+             "rP": "repos públicos",
+              "WebN": "Web No establecido" 
+           }
+       },  
+      "hackban": {
+          "user": "¿Qué usuario quieres hackbanear ingresa su id?"
+          "uB": "¡Por favor, no me bannes...!",
+          "uA": "No me atrevería a hackearte...!",
+          "days": "¿Cuántos días hay que esperar para borrar el historial de mensajes?(max: 7)",
+          "reason": "¿Cuál es el motivo?",
+          "cancel": "¡Comando Cancelado!",
+          "succ": "Banneado con éxito a **{{user}}**! 👋"
+     },
+    "hook": {
+        "messageD": "{{prefix}}hook <title>, <message>, [HEXcolor], [avatarURL]\n\n**<> is required\n[] is optional**" 
+    },
+    "jumbo": {
+        "Nemoji": "Please provide an emoji to expand it".
+        "Demoji": "I can't expand built-in discord emojis.",
+        "Iemoji": "Please provide a valid emoji."
+        "Ni": "I can't identify the emoji!"
+    },
+  "kick": {
+    "men": "**<:Not:463805182648778783> | You must mention someone**",
+    "reazon": "**<:Not:463805182648778783> | Write the reason, `{{prefix}}kick @username [razón]`**",
+    "noBP": "**<:Not:463805182648778783> | I can't kick the user mentioned.**",
+    "noC": "**<:Not:463805182648778783> | Please set up the channel to send the mod-logs**"
+  }
 }
