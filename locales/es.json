@@ -76,7 +76,7 @@
   }, 
   "ASCII": {
     "args": "Escribe algo para transformarlo en texto ascii",
-    "c14": "pasaste los 14 caracteres permitidos..."
+    "c14": "Pasaste los 14 caracteres permitidos..."
   },
   "ban": {
     "men": "**<:Not:463805182648778783> | Debe mencionar a alguien <:bEmoji:440388028939239434>**",
@@ -98,7 +98,7 @@
    },
    "clean": {
      "error": "<:Not:463805182648778783>  | Un bot sólo puede borrar mensajes que tengan menos de 14 días de antigüedad.",
-     "succMessage": "🍇 | **{{username}}**, podada con éxito {{total}} messages!"  
+     "succMessage": "🍇 | **{{username}}**, eliminados con éxito {{total}} messages!"  
    },
    "clyde": {
      "args": "Debes dar una descripción para Clyde",
