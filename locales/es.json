@@ -80,9 +80,9 @@
   },
   "ban": {
     "men": "**<:Not:463805182648778783> | Debe mencionar a alguien <:bEmoji:440388028939239434>**",
-    "reazon": "**<:Not:463805182648778783> | Escriba un razón, `Yu!ban @username [razón]`**",
+    "reazon": "**<:Not:463805182648778783> | Escriba un razón, `{{prefix}}ban @username [razón]`**",
     "noBP": "**<:Not:463805182648778783> | No puedo banear al usuario mencionado.**",
-    "noC": "**<:Not:463805182648778783> | Por favor, cree un canal con el nombre `mod-logs`.**"
+    "noC": "**<:Not:463805182648778783> | Por favor, extablece el canal para enviar los mod-logs"
   },
    "calculated": {
      "noArgs": "Debe proporcionar una ecuación para resolver en la calculadora",
@@ -111,5 +111,43 @@
         "noTerms": "¡No encontre algun resultado!",
         "Title": "Resultado de búsqueda de gifs para: ",
         "page:" "Página {{page}} de {{pagesL}}"
-    }
+    },
+     "Github": {
+        "nF": "No encontrado",
+        "nE": "El usuario no existe",
+        "args": "Por favor provea un nombre de usuario/org",
+         "infoEmbed": {
+             "f": "Seguidores",
+             "F": "Siguiendo",
+             "C": "Creado el",
+             "L": "Localización"
+             "Com": "Empresa",
+             "rP": "repos públicos",
+              "WebN": "Web No establecido" 
+           }
+       },  
+      "hackban": {
+          "user": "¿Qué usuario quieres hackbanear ingresa su id?"
+          "uB": "¡Por favor, no me bannes...!",
+          "uA": "No me atrevería a hackearte...!",
+          "days": "¿Cuántos días hay que esperar para borrar el historial de mensajes?(max: 7)",
+          "reason": "¿Cuál es el motivo?",
+          "cancel": "¡Comando Cancelado!",
+          "succ": "Banneado con éxito a **{{user}}**! 👋"
+     },
+    "hook": {
+        "messageD": "{{prefix}}hook <title>, <message>, [HEXcolor], [avatarURL]\n\n**<> se requiered\n[] es opcional**" 
+    },
+    "jumbo": {
+        "Nemoji": "Por favor, proporciona un emoji para expandirlo".
+        "Demoji": "No puedo expandir emojis de discord incorporados.",
+        "Iemoji": "Proporcione un emoji válido."
+        "Ni": "¡No puedo identificar el emoji!"
+    },
+  "kick": {
+    "men": "**<:Not:463805182648778783> | Debe mencionar a alguien**",
+    "reazon": "**<:Not:463805182648778783> | Escriba un razón, `{{prefix}}kick @username [razón]`**",
+    "noBP": "**<:Not:463805182648778783> | No puedo patear al usuario mencionado.**",
+    "noC": "**<:Not:463805182648778783> | Por favor, establece el canal para enviar los mod-logs**"
+  }
 }
