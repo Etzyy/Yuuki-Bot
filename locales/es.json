@@ -120,14 +120,14 @@
              "f": "Seguidores",
              "F": "Siguiendo",
              "C": "Creado el",
-             "L": "Localización"
+             "L": "Localización",
              "Com": "Empresa",
              "rP": "repos públicos",
               "WebN": "Web No establecido" 
            }
        },  
       "hackban": {
-          "user": "¿Qué usuario quieres hackbanear ingresa su id?"
+          "user": "¿Qué usuario quieres hackbanear ingresa su id?",
           "uB": "¡Por favor, no me bannes...!",
           "uA": "No me atrevería a hackearte...!",
           "days": "¿Cuántos días hay que esperar para borrar el historial de mensajes?(max: 7)",
@@ -139,9 +139,9 @@
         "messageD": "{{prefix}}hook <title>, <message>, [HEXcolor], [avatarURL]\n\n**<> se requiered\n[] es opcional**" 
     },
     "jumbo": {
-        "Nemoji": "Por favor, proporciona un emoji para expandirlo".
+        "Nemoji": "Por favor, proporciona un emoji para expandirlo",
         "Demoji": "No puedo expandir emojis de discord incorporados.",
-        "Iemoji": "Proporcione un emoji válido."
+        "Iemoji": "Proporcione un emoji válido.",
         "Ni": "¡No puedo identificar el emoji!"
     },
   "kick": {
