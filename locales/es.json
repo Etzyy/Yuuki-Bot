@@ -256,7 +256,7 @@
         "field2": "Anti-invitación",
         "field3": "Tipo de Bienvenida,
         "field4": "Texto de bienvenida",
-        "field4": "Texto de salida
+        "field5": "Texto de salida
     },
     "unban": {
         "args": "Por favor ",
