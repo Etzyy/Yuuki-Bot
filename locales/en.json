@@ -149,5 +149,149 @@
     "reazon": "**<:Not:463805182648778783> | Write the reason, `{{prefix}}kick @username [razón]`**",
     "noBP": "**<:Not:463805182648778783> | I can't kick the user mentioned.**",
     "noC": "**<:Not:463805182648778783> | Please set up the channel to send the mod-logs**"
-  }
+  },
+  "kiss": {
+        "author": " ",
+        "client": " ",
+        "notMention": " ",
+        "mention": " ",
+        "error": " "   
+  },
+  "leavetext": {
+        "title1": " ",
+        "title2": " ",
+        "subtitle": { 
+            "s1": " ",
+            "s2": " "
+        }
+    },
+    "mc": {
+        "noArgs": " ",
+        "args22": " "
+    },
+    "mdocs": {
+        "args": " ",
+        "noFound": " "
+    },
+      "modslist": {
+          "title": " "
+  },
+    "pat": {
+        "author": " ",
+        "client": " ",
+        "notMention": "  ",
+        "mention": "  ",
+        "error": " "   
+  },
+    "poke": {
+        "author": " ",
+        "client": " ",
+        "notMention": " ",
+        "mention": " ",
+        "error": " "   
+  },
+    "hug": {
+        "author": " ",
+        "client": " ",
+        "notMention": " ",
+        "mention": "  ",
+        "error": " "
+    },
+    "slap": {
+        "author": " ",
+        "client": " ",
+        "notMention": " ",
+        "mention": " ",
+        "error": " "
+    },
+    "starboard": {
+        "setC": " ",
+        "cS": " ",
+        "setR": " "
+        "removeR": " ",
+        "roleN": " ",
+        "rolNot": " ",
+        "channelNot": " ",
+        "c": " ",
+        "ena": " ",
+        "rolR": " "
+        "note": " "
+    },
+    "roblox": {
+        "args": " ",
+        "args1": " ",
+        "noFound": " ",
+        "N": " ",
+        "ID": " ",
+        "status": " ",
+        "friends": " ",
+        "friendsL": " ",
+        "weas": " ",
+        "groups": " "
+    },
+    "rolebots": {
+        "args": " ",
+        "roleS": " "
+    },
+    "roleusers": {
+        "args": " ",
+        "roleS": " "
+    },
+    "setlogs": {
+        "noActive": {
+            "title": " ",
+            "text": " "
+        },
+        "args": " ",
+        "logsC": " "
+    },
+    "settings": {
+        "noSet": " ",
+        "welcomeL": " ",
+        "message": " ",
+        "prefix": " ",
+        "cmd": " ",
+        "notT": " ", 
+        "field1": " ",
+        "field2": " ",
+        "field3": " ",
+        "field4": " ",
+        "field5": " "
+    },
+    "unban": {
+        "args": "  ",
+        "error": " ",
+        "error2": " ",
+        "unb": " "
+    },
+    "vote": {
+        "title": " ",
+        "message" " "
+    },
+    "warn": {
+        "perms": " ",
+        "user": " ",
+        "nPerms": " ",
+        "reazon": " ",
+        "nC": " ",
+        "sW": " ",
+        "userS": " ",
+        "muted": " ",
+        "timeMute": " ",
+        "warn3": " ",
+        "warn5": " "
+    },
+    "warns": {
+        "perms": " ",
+        "user": " ",
+        "nWarns": " ",
+        "tWarns": " ",
+        "field": " ",
+        "reason": " "
+    },
+    "welcome": {
+        "message": "",
+        //falta mas cosas 
+    }
+}
 }
