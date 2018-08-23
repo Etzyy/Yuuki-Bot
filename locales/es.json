@@ -149,5 +149,148 @@
     "reazon": "**<:Not:463805182648778783> | Escriba un razón, `{{prefix}}kick @username [razón]`**",
     "noBP": "**<:Not:463805182648778783> | No puedo patear al usuario mencionado.**",
     "noC": "**<:Not:463805182648778783> | Por favor, establece el canal para enviar los mod-logs**"
-  }
+  },
+  "kiss": {
+        "author": "Porque harías esoo",
+        "client": "Lo siento no puedo hacer lo >.<",
+        "notMention": " debes sentirte solo... Tenga un 🐈",
+        "mention": " Fuiste besado/a por ",
+        "error": "algo salió mal consiguiendo una imagen💔"   
+  },
+  "leavetext": {
+        "title1": "El texto de salida actual es el siguiente",
+        "title2": "Texto de salida actualizado con éxito a",
+        "subtitle": { 
+            "s1": "Ajustes",
+            "s2": "Para cambiar el texto usa {{prefix}}}welcometext <su mensaje>"
+        }
+    },
+    "mc": {
+        "noArgs": "Debe dar una descripción para crear un achievements de maincraft",
+        "args22": "Sólo puedo manejar un máximo de 22 caracteres"
+    },
+    "mdocs": {
+        "args": "¿Qué artículo te gustaría buscar?",
+        "noFound": "No se encontraron resultados."
+    },
+      "modslist": {
+          "title": "Moderadores para **{{guild}}** :\n"
+  },
+    "pat": {
+        "author": "por qué harías eso",
+        "client": "Lo siento no puedo hacer lo >.<",
+        "notMention": " debes sentirte solo... Tenga un 🐈",
+        "mention": " Fuiste acariciado/a por ",
+        "error": "algo salió mal consiguiendo una image💔"   
+  },
+    "poke": {
+        "author": "por qué harías esoo",
+        "client": "Lo siento no puedo hacer lo >.<",
+        "notMention": " debes sentirte solo... Toma un 🐈",
+        "mention": " Fuiste tocado/a por ",
+        "error": "algo salió mal consiguiendo una imagen💔"   
+  },
+    "hug": {
+        "author": "por qué harías esoo",
+        "client": "Lo siento no puedo hacer lo >.<",
+        "notMention": " debes sentirte solo... Toma un 🐈",
+        "mention": "  Fuiste abrazado/a por ",
+        "error": "algo salió mal consiguiendo una imagen💔"
+    },
+    "slap": {
+        "author": "por qué harías eso",
+        "client": "Lo siento no puedo hacer lo >.<",
+        "notMention": " ¿Querías abofetear a alguien B-Baka 🤔?",
+        "mention": "  Fuiste abofeteado/a por  ",
+        "error": "algo salió mal consiguiendo una imagen💔"
+    },
+    "starboard": {
+        "setC": "Por favor, mencione un canal {{prefiz}}Starboard set #channel",
+        "cS": "Canal configurado con éxito!",
+        "setR": "Especifique el nombre del rol {{prefix}}Starboard role [roleName | remove]"
+        "removeR": "El rol requerido para reaccionar fue deshabilitó correctamente.",
+        "roleN": "Rol necesario establecido a: ",
+        "rolNot": "*- No establecido*",
+        "channelNot": "'Usa {{prefix}}Starboard set #channel para establecer el canal de salida.",
+        "c": "Canal",
+        "ena": "Habilitado",
+        "rolR": "Rol requerido"
+        "note": "Nota: El Rol requerido solo se aplica a la primera estrella, cualquiera puede protagonizar después de eso. Puedes usar {{prefix}}Starboard role <roleName> para configurar esto."
+    },
+    "roblox": {
+        "args": "**Por favor, especifique un usuario!**",
+        "args1": "Mi sistemas me dicen que los nombres de usuario de Roblox no tienen espacios en sus nombres!",
+        "noFound": "Usuario **{{user}}** no fue encontrado",
+        "N": "Nombre",
+        "ID": "ID",
+        "status": "Estado en línea",
+        "friends": "Total de amigos: ",
+        "friendsL": "Lista de amigos: ",
+        "weas": "Lista de insignias",
+        "groups": "Lista de grupos"
+    },
+    "rolebots": {
+        "args": "Por favor ingrese el nombre del rol. `{{prefix}}rolebots <roleName>`",
+        "roleS": "Cambió correctamente el rol automático para los bots a: "
+    },
+    "roleusers": {
+        "args": "Por favor ingrese el nombre del rol. `{{prefix}}roleusers <roleName>`",
+        "roleS": "Cambió correctamente el rol automático para los usuarios a: "
+    },
+    "setlogs": {
+        "noActive": {
+            "title": "<:off:442082928323985408>Mod-logs desactivados",
+            "text": "Por favor activa los mod-logs antes de usar este comando\nSi no sabes como usa: `{{prefix}}welcome"
+        },
+        "args": "**Por favor mencione un canal para establecer los mod-logs {{prefix}}setlogs**",
+        "logsC": "Actualizado con éxito el canal de registro a "
+    },
+    "settings": {
+        "noSet": "**<:off:442082928323985408>  No configurado**",
+        "welcomeL": "<:off:442082928323985408> Welcome-logs deshabilitado",
+        "message": "Esta es la página de configuración para **Yuuki**. Todos los ajustes se enumeran aquí. \nPuedes ver los comandos y su estado actual",
+        "prefix": "Prefijo",
+        "cmd": "Comando",
+        "notT": "Comando No terminado", 
+        "field1": "Ajustes de bienvenida",
+        "field2": "Anti-invitación",
+        "field3": "Tipo de Bienvenida
+        "field4": "Texto de bienvenida"
+        "field4": "Texto de salida
+    },
+    "unban": {
+        "args": "Por favor ",
+        "error": "Falló al desbanear a {{user}}",
+        "error2": "Lo siento, no puedo encontrar un usuario con esa ID....",
+        "unb": "De acuerdo, ya no esta banneado {{user}}."
+    },
+    "vote": {
+        "title": "Sistema de Votación",
+        "message" "**Características**\n• El bot sera más conocido.\n• Para que el bot cresca Cuenta con un total de **{{guilds}}** servidores\n• ¡Obtienes más características increíbles todos los días!"
+    },
+    "warn": {
+        "perms": "Lo sentimos, pero usted no tiene permisos válidos! Si cree que se trata de un error, póngase en contacto con un propietario.",
+        "user": "¿A qué miembro quieres que le de una advertencia?",
+        "nPerms": "El usuario que está tratando de advertir eres tu mismo, o es un rol más alto que usted.",
+        "reazon": "Por favor, especifique el motivo de la advertencia.",
+        "nC": "**<:Not:463805182648778783> | Por favor, establece el canal para enviar los mod-logs**",
+        "sW": "¡He advertido a la persona y lo he registrado!",
+        "userS": "Has sido advertido en {{mensaje.guild}} con la razón: {{reason}}!**",
+        "muted": "El rol **Muted** no existe en el servidor!",
+        "timeMute": "Se le ha acabado el tiempo del silencio a {{use}}"
+        "warn3": "El usuario **{{user}}** fue temporalmente silenciado por \`10m\` por alcanzar 3 warns",
+        "warn5": "El usuario **{{user}}** a sido baneado del servidor por pasar las 5 warns."
+    },
+    "warns": {
+        "perms": "Lo sentimos, pero usted no tiene permisos válidos! Si cree que se trata de un error, póngase en contacto con un propietario.",
+        "user": "Por favor, mencione un usuario!",
+        "nWarns": "Este usuario no tiene ninguna advertencia",
+        "tWarns": "Por favor, especifique el aviso que desea ver! Este usuario tiene {{total}} advertencias!",
+        "field": "{{user}}'s {{warn}}st warning",
+        "reason": "Reason: **{{warns}}**"
+    },
+    "welcome": {
+        "message": "Reacciona :regional_indicator_y: para activar los mod-logs o reacciona :regional_indicator_n: para cancelar",
+        //falta mas cosas 
+    }
 }
