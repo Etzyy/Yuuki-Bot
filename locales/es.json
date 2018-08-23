@@ -255,7 +255,7 @@
         "field1": "Ajustes de bienvenida",
         "field2": "Anti-invitación",
         "field3": "Tipo de Bienvenida,
-        "field4": "Texto de bienvenida"
+        "field4": "Texto de bienvenida",
         "field4": "Texto de salida
     },
     "unban": {
@@ -277,8 +277,8 @@
         "sW": "¡He advertido a la persona y lo he registrado!",
         "userS": "Has sido advertido en {{mensaje.guild}} con la razón: {{reason}}!**",
         "muted": "El rol **Muted** no existe en el servidor!",
-        "timeMute": "Se le ha acabado el tiempo del silencio a {{use}}"
-        "warn3": "El usuario **{{user}}** fue temporalmente silenciado por \`10m\` por alcanzar 3 warns",
+        "timeMute": "Se le ha acabado el tiempo del silencio a {{use}}",
+        "warn3": "El usuario **{{user}}** fue temporalmente silenciado por **10m** por alcanzar 3 warns",
         "warn5": "El usuario **{{user}}** a sido baneado del servidor por pasar las 5 warns."
     },
     "warns": {
