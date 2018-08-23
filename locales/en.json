@@ -1,5 +1,4 @@
-{
-   
+{   
    "title": "Command Usage",
    "Error": ["❎ | Oh no, there's been a mistake: ", ". Please try again later."],
    "titleComp": "Complete :white_check_mark:",
@@ -123,7 +122,7 @@
              "C": "Created on",
              "L": "Localization",
              "Com": "Company",
-             "rP": "Public Repos",
+             "rP": " Public Repos",
               "WebN": "Web Not set up" 
            }
        },  
@@ -142,7 +141,7 @@
     "jumbo": {
         "Nemoji": "Please provide an emoji to expand it",
         "Demoji": "I can't expand built-in discord emojis.",
-        "Iemoji": "Please provide a valid emoji."
+        "Iemoji": "Please provide a valid emoji.",
         "Ni": "I can't identify the emoji!"
     },
   "kick": {
