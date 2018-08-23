@@ -207,14 +207,14 @@
     "starboard": {
         "setC": "Por favor, mencione un canal {{prefiz}}Starboard set #channel",
         "cS": "Canal configurado con éxito!",
-        "setR": "Especifique el nombre del rol {{prefix}}Starboard role [roleName | remove]"
+        "setR": "Especifique el nombre del rol {{prefix}}Starboard role [roleName | remove]",
         "removeR": "El rol requerido para reaccionar fue deshabilitó correctamente.",
         "roleN": "Rol necesario establecido a: ",
         "rolNot": "*- No establecido*",
         "channelNot": "'Usa {{prefix}}Starboard set #channel para establecer el canal de salida.",
         "c": "Canal",
         "ena": "Habilitado",
-        "rolR": "Rol requerido"
+        "rolR": "Rol requerido",
         "note": "Nota: El Rol requerido solo se aplica a la primera estrella, cualquiera puede protagonizar después de eso. Puedes usar {{prefix}}Starboard role <roleName> para configurar esto."
     },
     "roblox": {
