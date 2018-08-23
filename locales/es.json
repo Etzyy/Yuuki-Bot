@@ -115,19 +115,19 @@
      "Github": {
         "nF": "No encontrado",
         "nE": "El usuario no existe",
-        "args": "Por favor provea un nombre de usuario/org",
+        "args": "Por favor provee un nombre de usuario/org",
          "infoEmbed": {
              "f": "Seguidores",
              "F": "Siguiendo",
              "C": "Creado el",
              "L": "Localización",
              "Com": "Empresa",
-             "rP": " Repos Públicos",
+             "rP": " Repositorios Públicos",
               "WebN": "Web No establecido" 
            }
        },  
       "hackban": {
-          "user": "¿Qué usuario quieres hackbanear ingresa su id?",
+          "user": "¿Qué usuario quieres hackbanear? Ingresa su id",
           "uB": "¡Por favor, no me bannes...!",
           "uA": "No me atrevería a hackearte...!",
           "days": "¿Cuántos días hay que esperar para borrar el historial de mensajes?(max: 7)",
@@ -136,7 +136,7 @@
           "succ": "Banneado con éxito a **{{user}}**! 👋"
      },
     "hook": {
-        "messageD": "{{prefix}}hook <title>, <message>, [HEXcolor], [avatarURL]\n\n**<> se requiered\n[] es opcional**" 
+        "messageD": "{{prefix}}hook <title>, <message>, [HEXcolor], [avatarURL]\n\n**<> = Requerido\n[] = Opcional**" 
     },
     "jumbo": {
         "Nemoji": "Por favor, proporciona un emoji para expandirlo",
