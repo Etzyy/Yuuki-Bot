@@ -89,8 +89,8 @@
      "errorTitle": "¡Fallo matemático!",
      "ErrorM": "Calculo incorrecto!",
      "sussT": "Matemática Calculada!",
-     "firtsField": "He calculado con éxito:",
-     "secondField": "La respuesta es:"    
+     "firtsField": "He calculado con éxito: ",
+     "secondField": "La respuesta es: "    
    },
    "dogandcat": {
      "CatMessage": "Aqui esta tu gato aleatorio <:Cat:429724283003207681>",
@@ -110,7 +110,7 @@
         "search": ":arrows_counterclockwise: Buscando...",
         "noTerms": "¡No encontre algun resultado!",
         "Title": "Resultado de búsqueda de gifs para: ",
-        "page:" "Página {{page}} de {{pagesL}}"
+        "page": "Página {{page}} de {{pagesL}}"
     },
      "Github": {
         "nF": "No encontrado",
@@ -122,7 +122,7 @@
              "C": "Creado el",
              "L": "Localización",
              "Com": "Empresa",
-             "rP": "repos públicos",
+             "rP": " Repos Públicos",
               "WebN": "Web No establecido" 
            }
        },  
