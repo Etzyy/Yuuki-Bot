@@ -294,7 +294,7 @@
             "text": "Por favor activa los mod-logs antes de usar este comando\nSi no sabes como usa: `{{prefix}}welcome"
         },
         "args": "**Por favor mencione un canal para establecer los mensajes de bienvenida {{prefix}}welcomelogs #channel**",
-        "logsC": "actualizado con éxito los registros de bienvenida a:  "
+        "logsC": "actualizado con éxito los registros de bienvenida a:  ",
     }
     "typeW": {
         "title": "Tipo de Bienvenida",
