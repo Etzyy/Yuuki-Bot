@@ -28,17 +28,17 @@
         "title": "Prefixo atual"
     },
     "langR": {
-      "langR1": "Qual é a linguagem para estabelecer Yuuki?",
-      "langR2": "Por favor, introduzca un idioma válido!"
+      "langR1": "Qual é a linguagem para colocar na Yuuki?",
+      "langR2": "Por favor, diga um idioma válido!"
     },
   "BALL": {
     "usage": ["<:Not:463805182648778783> | " , ", o uso correto é:  `Yu!8ball <questão>`\n◈ | p. ex. `Yu!8ball A sopa de batata é deliciosa?`\n◈ | Obtenha mais ajuda usando `Yu!help 8ball`"],
     "preg": "Questão",
     "res": "Resposta",
-    "ress": ["Sim", "Não", "Por quê?", "Por favor", "Talvez", "Não sei", "Definitivamente?", "¡Claro!" ,"Claro que não"]
+    "ress": ["Sim", "Não", "Por quê?", "Por favor", "Talvez", "Não sei", "Definitivamente?", "Claro!" ,"Claro que não"]
   },
   "about": {
-    "owner": "Proprietário",
+    "owner": "Dono",
     "L": "Pacote",
     "CPU": "Uso da CPU",
     "C": "Comandos",
@@ -50,7 +50,7 @@
     "uptime": "Tempo de atividade",
     "E": "Eventos",
     "Mem": "Membros",
-    "WebSite": "Site web",
+    "WebSite": "Website",
     "Vote": "Vote no bot",
     "use": "Use Yu!vote"
   },
@@ -70,7 +70,7 @@
     "guilds": "Número de servidores",
     "CB": "Bot certificado",
     "Tags": "Rótulos",
-    "owner": "Proprietário(s)",
+    "owner": "Donos(s)",
     "SD": "Breve descrição",
     "Links": "Links"
   }, 
@@ -81,12 +81,12 @@
   "ban": {
     "men": "**<:Not:463805182648778783> | Você deve mencionar alguém <:bEmoji:440388028939239434>**",
     "reazon": "**<:Not:463805182648778783> | Escreva um motivo, `{{prefix}}ban @username [motivo]`**",
-    "noBP": "**<:Not:463805182648778783> | Eu não posso proibir o usuário mencionado.**",
+    "noBP": "**<:Not:463805182648778783> | Eu não posso punir o usuário mencionado.**",
     "noC": "**<:Not:463805182648778783> | Por favor crie o canal para enviar os mod-logs"
   },
    "calculated": {
      "noArgs": "Você deve fornecer uma equação para resolver na calculadora!a",
-     "errorTitle": "¡Falha matemática!",
+     "errorTitle": "Falha matemática!",
      "ErrorM": "Cálculo incorreto!",
      "sussT": "Matemática Calculada!",
      "firtsField": "Eu calculei com sucesso:",
@@ -101,19 +101,19 @@
      "succMessage": "🍇 | **{{username}}**, eliminado com sucesso {{total}} mensagens!"  
    },
    "clyde": {
-     "args": "Você deve dar uma descrição para Clyde",
+     "args": "Você deve digitar algo para Clyde falar!",
     "args60": "Eu só posso lidar com um máximo de 60 caracteres",
      "NoLoad": "Clique aqui se a imagem não foi carregada."  
    },
     "Gif": {
         "noArgs": "Por favor, insira um termo para pesquisar o gif",
         "search": ":arrows_counterclockwise: Pesquisando...",
-        "noTerms": "¡Eu não encontrei nenhum resultado!",
+        "noTerms": "Eu não encontrei nenhum resultado!",
         "Title": "Resultado da pesquisa de gifs para: ",
         "page:" "Página {{page}} de {{pagesL}}"
     },
      "Github": {
-        "nF": "Nao encontrado",
+        "nF": "Não encontrado",
         "nE": "O usuário não existe!",
         "args": "Por favor, forneça um nome de usuário/organização",
          "infoEmbed": {
@@ -127,12 +127,12 @@
            }
        },  
       "hackban": {
-          "user": "¿Qual usuário você quer hackbane? Digite seu id!",
-          "uB": "¡Por favor, não me bani...!",
+          "user": "Qual usuário você quer dar um hackban? Digite seu id!",
+          "uB": "Por favor, não me bana...!",
           "uA": "Eu não ousaria te hackear...!",
           "days": "¿Quantos dias deve esperar para limpar o histórico de mensagens? (máx: 7)",
           "reason": "¿Qual é o motivo?",
-          "cancel": "¡Comando Cancelado!",
+          "cancel": "Comando Cancelado!",
           "succ": "Banido com sucesso para **{{user}}**! 👋"
      },
     "hook": {
@@ -142,7 +142,7 @@
         "Nemoji": "Por favor, forneça um emoji para expandi-lo",
         "Demoji": "Eu não posso expandir emojis de discord incorporados.",
         "Iemoji": "Forneça um emoji válido.",
-        "Ni": "¡Eu não consigo identificar o emoji!"
+        "Ni": "Eu não consigo identificar o emoji!"
     },
   "kick": {
     "men": "**<:Not:463805182648778783> | Você deve mencionar alguém!**",
@@ -342,3 +342,4 @@
       }
    }
 }
+
