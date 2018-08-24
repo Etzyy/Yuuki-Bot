@@ -327,7 +327,7 @@
         "embed2": {
             "field1": "Estrellas",
             "field2": "Autor",
-            "footer": "Reactivos:""
+            "footer": "Reactivos:",
         },
         "noPerms": {
             "message": "Lo sentimos, solo las personas con el rol **{{Role}}** pueden ser los primeros en destacar el mensaje."
