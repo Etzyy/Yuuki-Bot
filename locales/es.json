@@ -269,7 +269,7 @@
         "sW": "¡He advertido a la persona y lo he registrado!",
         "userS": "Has sido advertido en {{mensaje.guild}} con la razón: {{reason}}!**",
         "muted": "El rol **Muted** no existe en el servidor!",
-        "timeMute": "Se le ha acabado el tiempo del silencio a {{use}}",
+        "timeMute": "Se le ha acabado el tiempo del silencio a {{user}}",
         "warn3": "El usuario **{{user}}** fue temporalmente silenciado por **10m** por alcanzar 3 warns",
         "warn5": "El usuario **{{user}}** a sido baneado del servidor por pasar las 5 warns."
     },
@@ -294,8 +294,8 @@
             "text": "Por favor activa los mod-logs antes de usar este comando\nSi no sabes como usa: `{{prefix}}welcome"
         },
         "args": "**Por favor mencione un canal para establecer los mensajes de bienvenida {{prefix}}welcomelogs #channel**",
-        "logsC": "actualizado con éxito los registros de bienvenida a:  ",
-    }
+        "logsC": "actualizado con éxito los registros de bienvenida a:  "
+    },
     "typeW": {
         "title": "Tipo de Bienvenida",
         "message": "Actual mente este comando esta desactivado por motivos que solo se cuenta con el tipo de bienveniad en imagen lo siento"
