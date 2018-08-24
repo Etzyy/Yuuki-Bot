@@ -76,7 +76,7 @@
   }, 
   "ASCII": {
     "args": "Write something to transform it into ascii text.",
-    "c14": "you passed the 14 characters allowed...."
+    "c14": "You passed the 14 characters allowed...."
   },
   "ban": {
     "men": "<:Not:463805182648778783> | You must mention someone <:bEmoji:440388028939239434>",
