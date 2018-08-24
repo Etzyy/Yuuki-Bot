@@ -151,169 +151,169 @@
     "noC": "**<:Not:463805182648778783> | Please set up the channel to send the mod-logs**"
   },
   "kiss": {
-        "author": " ",
-        "client": " ",
-        "notMention": " ",
-        "mention": " ",
-        "error": " "   
+        "author": "Why would you do that?!",
+        "client": "I'm sorry, I can't do that >.<!",
+        "notMention": "You should be feeling alone... I'll give you a 🐈",
+        "mention": "You were kissed by ",
+        "error": "Something went wrong while getting an image 💔"   
   },
   "leavetext": {
-        "title1": " ",
-        "title2": " ",
+        "title1": "The following leave text is: ",
+        "title2": "Leave text sucessfully updated",
         "subtitle": { 
-            "s1": " ",
-            "s2": " "
+            "s1": "Settings",
+            "s2": "To change the text use {{prefix}}welcometext <new text>"
         }
     },
     "mc": {
-        "noArgs": " ",
-        "args22": " "
+        "noArgs": "You should give a description to create an minecraft achievement",
+        "args22": " I only support less than 22 characters"
     },
     "mdocs": {
-        "args": " ",
-        "noFound": " "
+        "args": "What would you like to search?",
+        "noFound": "Could not found results."
     },
       "modslist": {
-          "title": " "
+          "title": "Moderators of **{{guild}}** :\n"
   },
     "pat": {
-        "author": " ",
-        "client": " ",
-        "notMention": "  ",
-        "mention": "  ",
-        "error": " "   
+        "author": "Why would you do that!?",
+        "client": "I'm sorry, I can't do that >.<!",
+        "notMention": "You should be feeling alone... I'll give you a 🐈",
+        "mention": "You were patted by ",
+        "error": "Something went wrong while getting an image 💔"   
   },
     "poke": {
-        "author": " ",
-        "client": " ",
-        "notMention": " ",
-        "mention": " ",
-        "error": " "   
+        "author": "Why would you do that!?",
+        "client": "I'm sorry, I can't do that >.<!",
+        "notMention": "You should be feeling alone... I'll give you a 🐈",
+        "mention": "You were poked by ",
+        "error": "Something went wrong while getting an image 💔"   
   },
     "hug": {
-        "author": " ",
-        "client": " ",
-        "notMention": " ",
-        "mention": "  ",
-        "error": " "
+        "author": "Why would you do that!?",
+        "client": "I'm sorry, I can't do that >.<!",
+        "notMention": "You should be feeling alone... I'll give you a 🐈",
+        "mention": "You were hugged by ",
+        "error": "Something went wrong while getting an image 💔"
     },
     "slap": {
-        "author": " ",
-        "client": " ",
-        "notMention": " ",
-        "mention": " ",
-        "error": " "
+        "author": "Why would you do that!?",
+        "client": "I'm sorry, I can't do that >.<!",
+        "notMention": "You should be feeling alone... I'll give you a 🐈",
+        "mention": "You were slapped by ",
+        "error": "Something went wrong while getting an image 💔"
     },
     "starboard": {
-        "setC": " ",
-        "cS": " ",
-        "setR": " ",
-        "removeR": " ",
-        "roleN": " ",
-        "rolNot": " ",
-        "channelNot": " ",
-        "c": " ",
-        "ena": " ",
-        "rolR": " ",
-        "note": " ",
+        "setC": "Please mention a channel using {{prefix}}starboard set <#channel>",
+        "cS": "Channel configured sucessfully!",
+        "setR": "Specify the role that can use starboard with {{prefix}}starboard role <roleName>",
+        "removeR": "The required role to use starboard has been disabled sucessfully.",
+        "roleN": "Needed role stablished to: ",
+        "rolNot": "*- Not stablished*",
+        "channelNot": "Use {{prefix}}starboard set #channel to stablish the starboard channel",
+        "c": "Channel",
+        "ena": "Enabled",
+        "rolR": "Required role",
+        "note": "Note: The required role only applies to the first star, which means that anyone can star the message already starred by someone with the role",
     },
     "roblox": {
-        "args": " ",
-        "args1": " ",
-        "noFound": " ",
-        "N": " ",
-        "ID": " ",
-        "status": " ",
-        "friends": " ",
-        "friendsL": " ",
-        "weas": " ",
-        "groups": " "
+        "args": "**Please, specify an user!**",
+        "args1": "My system says that roblox usernames doesn't haves spaces in their names! (use _ instead)",
+        "noFound": "User **{{user}}** could be not found.",
+        "N": "Name",
+        "ID": "ID",
+        "status": "Online status",
+        "friends": "Total friends: ",
+        "friendsL": "Friends list: ",
+        "weas": "Badges list: ",
+        "groups": "Groups list:"
     },
     "rolebots": {
-        "args": " ",
-        "roleS": " "
+        "args": "Please provide a role name. `{{prefix}}rolebots <role name>",
+        "roleS": "Automatic role for bots has been changed to: "
     },
     "roleusers": {
-        "args": " ",
-        "roleS": " "
+        "args": "Please provide a role name. `{{prefix}}roleusers <role name>",
+        "roleS": "Automatic role for users has been changed to:"
     },
     "setlogs": {
         "noActive": {
-            "title": " ",
-            "text": " "
+            "title": "<:off:442082928323985408> Mod-logs disabled.",
+            "text": "Please enable mod-logs before using this command.\nIf you don't know how use: `{{prefix}}welcome <channel>"
         },
-        "args": " ",
-        "logsC": " "
+        "args": "**Please mention a channel to stablish mod-logs**",
+        "logsC": "Registering channel has been changed to "
     },
     "settings": {
-        "noSet": " ",
-        "welcomeL": " ",
-        "message": " ",
-        "prefix": " ",
-        "cmd": " ",
-        "notT": " ", 
-        "field1": " ",
-        "field2": " ",
-        "field3": " ",
-        "field4": " ",
-        "field5": " "
+        "noSet": "**<:off:442082928323985408>  Not configurated**",
+        "welcomeL": "<:off:442082928323985408> Welcome-logs disabled.",
+        "message": "This is the configuration page for **Yuuki**. Every setting is here.\nYou can see commands and Yuuki current status.",
+        "prefix": "Prefix",
+        "cmd": "Command",
+        "notT": "Command not finished.", 
+        "field1": "Welcome Settings ",
+        "field2": "Anti-invite",
+        "field3": "Type of Welcoming",
+        "field4": "Welcome Text",
+        "field5": "Leave Text"
     },
     "unban": {
-        "args": "  ",
-        "error": " ",
-        "error2": " ",
-        "unb": " "
+        "args": "Please ",
+        "error": "I couldn't ban {{user}}",
+        "error2": "I'm sorry, but I couldn't find an user with that ID...",
+        "unb": "Alright, now {{user}} is not banned anymore."
     },
     "vote": {
-        "title": " ",
-        "message" " "
+        "title": "Votation System",
+        "message" "**Caracteristics**\n• Bot will be more known.\n• For bot to grow, counts with a total of **{{guilds}}** guilds\n• You get new awesome features everyday!"
     },
     "warn": {
-        "perms": " ",
-        "user": " ",
-        "nPerms": " ",
-        "reazon": " ",
-        "nC": " ",
-        "sW": " ",
-        "userS": " ",
-        "muted": " ",
-        "timeMute": " ",
-        "warn3": " ",
-        "warn5": " "
+        "perms": "I'm sorry but you don't have valid permissions! If you think this is an error contact with bot owner.",
+        "user": "What user do you want to warn?",
+        "nPerms": "You can't give a warning to yourself, or who you try to warn is a role more hoisted than yours.",
+        "reazon": "Please, specify the reason of the warning!",
+        "nC": "**<:Not:463805182648778783> | Please, stablish mod-logs channel!**",
+        "sW": "I have warned him, and logged it.",
+        "userS": "You were warned at {{mensaje.guild}} with the reason: {{reason}}!**",
+        "muted": "The **Muted** role doesn't exists in this server!",
+        "timeMute": "Mute time has been passed for {{user}}",
+        "warn3": "The user **{{user}}** was temporaly silenced for **10minutes** for surpassing 3 warnings.",
+        "warn5": "The user **{{user}}** was banned from the server for surpassing 5 warnings."
     },
     "warns": {
-        "perms": " ",
-        "user": " ",
-        "nWarns": " ",
-        "tWarns": " ",
-        "field": " ",
-        "reason": " "
+        "perms": "I'm sorry but you don't have valid permissions! If you think this is an error contact with bot owner.",
+        "user": "Please mention an user",
+        "nWarns": "The following user doesn't haves any warnings!",
+        "tWarns": "Please, specify the warning you would like to see information about. The following user has a total of {{total}} warnings.",
+        "field": "{{user}}'s {{warn}}st warning",
+        "reason": "Reason: **{{warns}}**"
     },
     "welcome": {
-        "message": " ",
-        "title1": " ",
-        "title2": " ",
-        "subt": " ",
-        "subt2": " " 
+        "message": "React with :regional_indicator_y: to enable mod-logs or react with :regional_indicator_n: to cancel.",
+        "title1": "<:onn:442082974037573641> Mod-logs enabled",
+        "title2": "<:off:442082928323985408> Mod-logs disabled",
+        "subt": "Use {{prefix}}setlogs <#channel> to set logs channel",
+        "subt2": "Use {{prefix}}setlogs <#channel> to welcome logs channel" 
     },
     "welcomelogs": {
         "noActive": {
-            "title": " ",
-            "text": " "
+            "title": "<:off:442082928323985408>Mod-logs disabled",
+            "text": "Please enable mod-logs before using this command.\nIf you don't know how use: `{{prefix}}welcome <channel>""
         },
-        "args": " ",
-        "logsC": " "
-    }
+        "args": "**Please mention a channel to use welcome messages",
+        "logsC": "Welcome logs has been set to: "
+    },
     "typeW": {
-        "title": " ",
-        "message": " "
+        "title": "Type of welcome",
+        "message": "Currently this command has been disabled because we only have image type, sorry!"
   },
   "leavetext": {
-        "title1": " ",
-        "title2": " ",
+        "title1": "The following leave text is",
+        "title2": "Leave text updated to ",
         "subtitle": { 
-            "s1": " ",
-            "s2": " "
+            "s1": "Settings",
+            "s2": "To change leave text use {{prefix}}leavetext <new leave text>"
         }
     },
   "welcometext": {
