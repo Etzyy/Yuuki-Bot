@@ -149,5 +149,196 @@
     "reazon": "**<:Not:463805182648778783> | Escreva um motivo, `{{prefix}}kick @username [motivo]`**",
     "noBP": "**<:Not:463805182648778783> | Eu não posso tirar o usuário mencionado.**",
     "noC": "**<:Not:463805182648778783> | Por favor, crie o canal para enviar os mod-logs**"
-  }
+  },
+   "kiss":{  
+      "author":" ",
+      "client":" ",
+      "notMention":" ",
+      "mention":" ",
+      "error":" "
+   },
+   "mc":{  
+      "noArgs":" ",
+      "args22":" "
+   },
+   "mdocs":{  
+      "args":" ",
+      "noFound":" "
+   },
+   "modslist":{  
+      "title":" "
+   },
+   "pat":{  
+      "author":" ",
+      "client":" ",
+      "notMention":" ",
+      "mention":" ",
+      "error":" "
+   },
+   "poke":{  
+      "author":" ",
+      "client":" ",
+      "notMention":" ",
+      "mention":" ",
+      "error":" "
+   },
+   "hug":{  
+      "author":" ",
+      "client":" ",
+      "notMention":" ",
+      "mention":" ",
+      "error":" "
+   },
+   "slap":{  
+      "author":" ",
+      "client":" ",
+      "notMention":" ",
+      "mention":" ",
+      "error":" "
+   },
+   "starboard":{  
+      "setC":" ",
+      "cS":" ",
+      "setR":" ",
+      "removeR":"T ",
+      "roleN":" ",
+      "rolNot":" ",
+      "channelNot":" ",
+      "c":"Channel",
+      "ena":" ",
+      "rolR":" ",
+      "note":" "
+   },
+   "roblox":{  
+      "args":" ",
+      "args1":" ",
+      "noFound":"U ",
+      "N":" ",
+      "ID":" ",
+      "status":" ",
+      "friends":" ",
+      "friendsL":" ",
+      "weas":" ",
+      "groups":" "
+   },
+   "rolebots":{  
+      "args":" ",
+      "roleS":" "
+   },
+   "roleusers":{  
+      "args":" ",
+      "roleS":" "
+   },
+   "setlogs":{  
+      "noActive":{  
+         "title":" ",
+         "text":" "
+      },
+      "args":" ",
+      "logsC":" "
+   },
+   "settings":{  
+      "noSet":" ",
+      "welcomeL":" ",
+      "message":" ",
+      "prefix":" ",
+      "cmd":" ",
+      "notT":" ",
+      "field1":" ",
+      "field2":" ",
+      "field3":" ",
+      "field4":" ",
+      "field5":" "
+   },
+   "unban":{  
+      "args":"  ",
+      "error":" ",
+      "error2":" ",
+      "unb":" "
+   },
+   "vote":{  
+      "title":" ",
+      "message":" "
+   },
+   "warn":{  
+      "perms":" ",
+      "user":" ",
+      "nPerms":" ",
+      "reazon":" ",
+      "nC":" ",
+      "sW":" ",
+      "userS":" ",
+      "muted":" ",
+      "timeMute":" ",
+      "warn3":" ",
+      "warn5":" "
+   },
+   "warns":{  
+      "perms":" ",
+      "user":" ",
+      "nWarns":" ",
+      "tWarns":" ",
+      "field":" ",
+      "reason":" "
+   },
+   "welcome":{  
+      "message":" ",
+      "title1":" ",
+      "title2":" ",
+      "subt":" ",
+      "subt2":" "
+   },
+   "welcomelogs":{  
+      "noActive":{  
+         "title":" ",
+         "text":" "
+      },
+      "args":" ",
+      "logsC":" "
+   },
+   "typeW":{  
+      "title":" ",
+      "message":" "
+   },
+   "leavetext":{  
+      "title1":" ",
+      "title2":" ",
+      "subtitle":{  
+         "s1":" ",
+         "s2":" "
+      }
+   },
+   "welcometext":{  
+      "title1":" ",
+      "title2":" ",
+      "subtitle":{  
+         "s1":" ",
+         "s2":" "
+      }
+   },
+   "messageReaction":{  
+      "title":" ",
+      "author":" ",
+      "embed":{  
+         "field1":" ",
+         "field2":" ",
+         "footer":" "
+      },
+      "embed2":{  
+         "field1":" ",
+         "field2":" ",
+         "footer":" "
+      },
+      "noPerms":{  
+         "message":" "
+      }
+   },
+   "messageReactionR":{  
+      "title":" ",
+      "embed":{  
+         "field1":" ",
+         "field2":" ",
+         "footer":"  "
+      }
+   }
 }
