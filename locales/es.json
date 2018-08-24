@@ -157,14 +157,6 @@
         "mention": " Fuiste besado/a por ",
         "error": "algo salió mal consiguiendo una imagen💔"   
   },
-  "leavetext": {
-        "title1": "El texto de salida actual es el siguiente",
-        "title2": "Texto de salida actualizado con éxito a",
-        "subtitle": { 
-            "s1": "Ajustes",
-            "s2": "Para cambiar el texto usa {{prefix}}}welcometext <su mensaje>"
-        }
-    },
     "mc": {
         "noArgs": "Debe dar una descripción para crear un achievements de maincraft",
         "args22": "Sólo puedo manejar un máximo de 22 caracteres"
@@ -291,6 +283,61 @@
     },
     "welcome": {
         "message": "Reacciona :regional_indicator_y: para activar los mod-logs o reacciona :regional_indicator_n: para cancelar",
-        //falta mas cosas 
+        "title1": "<:onn:442082974037573641> Mod-logs habilitados",
+        "title2": "<:off:442082928323985408> Mod-logs inhabilitados",
+        "subt": "use {{prefix}}setlogs #channel para ajustar el canal para los registros",
+        "subt2": "use {{prefix}}welcomelogs #channel para ajustar el canal de bienvenida" 
+    },
+    "welcomelogs": {
+        "noActive": {
+            "title": "<:off:442082928323985408>Mod-logs desactivados",
+            "text": "Por favor activa los mod-logs antes de usar este comando\nSi no sabes como usa: `{{prefix}}welcome"
+        },
+        "args": "**Por favor mencione un canal para establecer los mensajes de bienvenida {{prefix}}welcomelogs #channel**",
+        "logsC": "actualizado con éxito los registros de bienvenida a:  "
     }
+    "typeW": {
+        "title": "Tipo de Bienvenida",
+        "message": "Actual mente este comando esta desactivado por motivos que solo se cuenta con el tipo de bienveniad en imagen lo siento"
+  },
+  "leavetext": {
+        "title1": "El texto de salida actual es el siguiente",
+        "title2": "Texto de salida actualizado con éxito a",
+        "subtitle": { 
+            "s1": "Ajustes",
+            "s2": "Para cambiar el texto usa {{prefix}}}leavetext <su mensaje>"
+        }
+    },
+  "welcometext": {
+        "title1": "El texto de bienvenida actual es el siguiente",
+        "title2": "Texto de bienvenida actualizado con éxito a",
+        "subtitle": { 
+            "s1": "Ajustes",
+            "s2": "Para cambiar el texto usa {{prefix}}}welcometext <su mensaje>"
+        }
+    },
+    "messageReaction": {
+        "title": "tablero de estrellas",
+        "author": "¡No puedes reacionar a tu propio mensaje!",
+        "embed": {
+            "field1": "Estrellas",
+            "field2": "Autor",
+            "footer": "Reactivos:"
+        },
+        "embed2": {
+            "field1": "Estrellas",
+            "field2": "Autor",
+            "footer": "Reactivos:""
+        },
+        "noPerms": {
+            "message": "Lo sentimos, solo las personas con el rol **{{Role}}** pueden ser los primeros en destacar el mensaje."
+        }
+    },
+    "messageReactionR": {
+        "title": "tablero de estrellas",
+        "embed": {
+            "field1": "Estrellas",
+            "field2": "Autor",
+            "footer": "Reactivos:"
+        }
 }
