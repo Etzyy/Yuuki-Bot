@@ -290,8 +290,39 @@
         "reason": " "
     },
     "welcome": {
-        "message": "",
+        "message": " ",
+        "title1": " ",
+        "title2": " ",
+        "subt": " ",
+        "subt2": " " 
     },
-   "salchipapa": "faltan mas cosas"
+    "welcomelogs": {
+        "noActive": {
+            "title": " ",
+            "text": " "
+        },
+        "args": " ",
+        "logsC": " "
+    }
+    "typeW": {
+        "title": " ",
+        "message": " "
+  },
+  "leavetext": {
+        "title1": " ",
+        "title2": " ",
+        "subtitle": { 
+            "s1": " ",
+            "s2": " "
+        }
+    },
+  "welcometext": {
+        "title1": " ",
+        "title2": " ",
+        "subtitle": { 
+            "s1": " ",
+            "s2": " "
+        }
+    }
 }
 }
