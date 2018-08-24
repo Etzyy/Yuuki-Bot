@@ -299,7 +299,7 @@
     "welcomelogs": {
         "noActive": {
             "title": "<:off:442082928323985408>Mod-logs disabled",
-            "text": "Please enable mod-logs before using this command.\nIf you don't know how use: `{{prefix}}welcome <channel>""
+            "text": "Please enable mod-logs before using this command.\nIf you don't know how use: `{{prefix}}welcome <channel>",
         },
         "args": "**Please mention a channel to use welcome messages",
         "logsC": "Welcome logs has been set to: "
