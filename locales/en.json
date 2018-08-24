@@ -324,5 +324,29 @@
             "s2": " "
         }
     }
-}
+  },
+    "messageReaction": {
+        "title": " ",
+        "author": " ",
+        "embed": {
+            "field1": " ",
+            "field2": " ",
+            "footer": " "
+        },
+        "embed2": {
+            "field1": " ",
+            "field2": " ",
+            "footer": " ",
+        },
+        "noPerms": {
+            "message": " "
+        }
+    },
+    "messageReactionR": {
+        "title": " ",
+        "embed": {
+            "field1": " ",
+            "field2": " ",
+            "footer": " "
+        }
 }
