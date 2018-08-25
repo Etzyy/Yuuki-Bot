@@ -331,36 +331,36 @@
       }
    },
    "welcometext":{  
-      "title1":" ",
-      "title2":" ",
+      "title1":"The following current welcome text is",
+      "title2":"Welcome text has been sucessfully updated to",
       "subtitle":{  
-         "s1":" ",
-         "s2":" "
+         "s1":"Settings",
+         "s2":"To change welcome text use {{prefix}}welcometext <new welcome text>"
       }
    },
    "messageReaction":{  
-      "title":" ",
-      "author":" ",
+      "title":"Starboard",
+      "author":"You can't star your own message!",
       "embed":{  
-         "field1":" ",
-         "field2":" ",
-         "footer":" "
+         "field1":"Stars",
+         "field2":"Author",
+         "footer":"Reacted by: "
       },
       "embed2":{  
-         "field1":" ",
-         "field2":" ",
-         "footer":" "
+         "field1":"Stars",
+         "field2":"Author",
+         "footer":"Reacted by:"
       },
       "noPerms":{  
-         "message":" "
+         "message":"I'm sorry, but only people with **{{Role}}** tole can firstly star a message"
       }
    },
    "messageReactionR":{  
-      "title":" ",
+      "title":"Starboard",
       "embed":{  
-         "field1":" ",
-         "field2":" ",
-         "footer":"  "
+         "field1":"Stars",
+         "field2":"Author",
+         "footer":"Reacted by: "
       }
    }
 }
